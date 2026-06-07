@@ -1,25 +1,5 @@
-### Hi there 👋
+<h3 align="">Hello, I'm YK</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flare-k&label=Profile%20views&color=0e75b6&style=flat" alt="flare-k" /> </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFlare-k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokkyw1@gmail.com)](mailto:rokkyw1@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/flare_k/)](https://www.instagram.com/flare_k/)  
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Flare-k&show_icons=true)
-
-![Anurag's github stats](https://github-readme-stats-flare-k-s-projects.vercel.app/api?username=Flare-k&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats)
-
-
-<!--
-**Flare-k/Flare-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats-flare-k-s-projects.vercel.app/api?username=Flare-k&show_icons=true)
+<p align="left"> <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=rokkyw"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rokkyw" alt="flare-k" /></a> </p>
