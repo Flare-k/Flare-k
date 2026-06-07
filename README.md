@@ -6,6 +6,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Flare-k&show_icons=true)
 
+![Anurag's github stats](https://github-readme-stats-flare-k-s-projects.vercel.app/api?username=Flare-k&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats)
+
+
 <!--
 **Flare-k/Flare-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
